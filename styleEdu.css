@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    size: 50px;
+}
